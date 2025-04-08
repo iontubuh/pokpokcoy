@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
     <!-- teknik-seo-rendikt -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-language" content="id">
     <title>IONCASINO88 : Agen Betting Bola | Situs Bandar Online Terpercaya</title>
     <meta name="keywords" content="ioncasino88, situs ioncasino88, link ioncasino88" /
     <meta name="description" content=Ioncasino88 merupakan situs bandar bola online resmi serta agen tempat bermain paling terpercaya di indonesia yang menyajikan beragam pelayanan terbaik serta akses alterantif ioncasino 88 termudah.'>
@@ -38,7 +38,8 @@
         <!-- AMP Analytics -->
     <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
     <script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
-    
+
+    <skrip asinkron elemen-kustom="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></skrip>
     <style amp-boilerplate>
         body {
             -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
